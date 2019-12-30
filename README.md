@@ -1,5 +1,5 @@
 # quick-ubuntu-cloud-virtualbox
-Quickly setup of Ubuntu cloud in VirtualBox by using 
+A quick setup of Ubuntu cloud in VirtualBox by using pre-configured seed information
 
 1. Download Ubuntu Cloud Images .vmdk format from  https://cloud-images.ubuntu.com/  or to be specific I'm using https://cloud-images.ubuntu.com/bionic/current/bionic-server-cloudimg-amd64.vmdk
 
